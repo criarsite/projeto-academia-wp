@@ -1,4 +1,4 @@
-# projeto-academia-wp
+# Projet academia wp
 Projeto de um site para uma academia feito pelo grupo do whatsapp
 
 Este projeto esta dividido em 4 partes. 
